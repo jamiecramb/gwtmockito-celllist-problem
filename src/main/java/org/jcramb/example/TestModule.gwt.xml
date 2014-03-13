@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module rename-to='TestModule'>
+  <inherits name='com.google.gwt.user.User' />
+  <inherits name='com.google.gwt.user.theme.standard.Standard' />
+
+  <entry-point class='org.jcramb.example.client.TestModule' />
+
+  <!-- Specify the paths for translatable code                    -->
+  <source path='client' />
+
+</module>
